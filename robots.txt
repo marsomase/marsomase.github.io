@@ -1,0 +1,10 @@
+User-Agent: *
+Disallow: 
+
+Sitemap: https://marsomase.github.io/sitemap
+Sitemap: https://marsomase.github.io/app/sitemap
+Sitemap: https://marsomase.github.io/assets/sitemap
+Sitemap: https://marsomase.github.io/css/sitemap
+Sitemap: https://marsomase.github.io/includes/sitemap
+Sitemap: https://marsomase.github.io/item/sitemap
+Sitemap: https://marsomase.github.io/src/sitemap
